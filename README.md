@@ -21,7 +21,7 @@
 **Language:** HTML / CSS
 **Progress:** Finish the Responsive Web Design Principles and CSS Flexbox section of Responsive Web Design. 
 
-**Day 5 July 31, 2019**
+**Day 5 August 1, 2019**
 
 **Language:** HTML / CSS
 **Progress:** Finish the first 6 of Applied Accessibility section of Responsive Web Design. 
@@ -33,3 +33,9 @@
 ```
 `header`shares the embedded landmark feature you saw with  `main`, allowing assistive technologies to quickly navigate to that content.
 `header`is meant for use in the  `body`tag of your HTML document. This is different than the  `head`element, which contains the page's title, meta information, etc. Often times, the `h1` tag is used inside the `header` tag.
+
+**Day 6 August 5, 2019**
+
+**Language:** HTML / CSS
+**Progress:** Finish the Applied Accessibility of Responsive Web Design. 
+**New Learnings:** `accesskey` attribute to specify a shortcut key to activate or bring focus to an element and make screen reader navigation easier with the `header`, `nav`, `footer` landmark.
