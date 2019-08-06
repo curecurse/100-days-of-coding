@@ -44,7 +44,7 @@
 **Day 7 August 6, 2019**
 
 **Language:** HTML / CSS
-**Progress:** Finish  of Responsive Web Design. 
+**Progress:** Finish CSS Grid section of Responsive Web Design. 
 **New Learnings:** 
 `fr` sets the column or row to a fraction of the available space
 `auto` sets the column or row to the width or height of its content automatically,
