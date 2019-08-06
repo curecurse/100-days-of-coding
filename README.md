@@ -1,3 +1,4 @@
+
 # 100-days-of-coding
 
 **Day 1 July 24, 2019**
@@ -39,3 +40,14 @@
 **Language:** HTML / CSS
 **Progress:** Finish the Applied Accessibility of Responsive Web Design. 
 **New Learnings:** `accesskey` attribute to specify a shortcut key to activate or bring focus to an element and make screen reader navigation easier with the `header`, `nav`, `footer` landmark.
+
+**Day 7 August 6, 2019**
+
+**Language:** HTML / CSS
+**Progress:** Finish  of Responsive Web Design. 
+**New Learnings:** 
+`fr` sets the column or row to a fraction of the available space
+`auto` sets the column or row to the width or height of its content automatically,
+`%` adjusts the column or row to the percent width of its container.
+`grid-gap` places gap on grids
+`grid-template-areas` group cells of your grid together into an area and give the area a custom name. You can place an item in your custom area by referencing the name you gave it, you can use the `grid-area`property on an item like this:
