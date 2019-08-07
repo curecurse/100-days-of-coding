@@ -51,3 +51,8 @@
 `%` adjusts the column or row to the percent width of its container.
 `grid-gap` places gap on grids
 `grid-template-areas` group cells of your grid together into an area and give the area a custom name. You can place an item in your custom area by referencing the name you gave it, you can use the `grid-area`property on an item like this:
+
+**Day 8 August 7, 2019**
+
+**Language:** HTML / CSS
+**Progress:** Finish Tribute Page project of Responsive Web Design.
