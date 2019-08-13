@@ -61,3 +61,8 @@
 
 **Language:** HTML / CSS
 **Progress:** Finish Survey Form project of Responsive Web Design.
+
+**Day 10 August 13, 2019**
+
+**Language:** HTML / CSS
+**Progress:** Finish Product Landing Page project of Responsive Web Design.
