@@ -65,4 +65,4 @@
 **Day 10 August 13, 2019**
 
 **Language:** HTML / CSS
-**Progress:** Finish Product Landing Page project of Responsive Web Design.
+**Progress:** Finish Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage of Responsive Web Design.
