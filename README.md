@@ -66,3 +66,8 @@
 
 **Language:** HTML / CSS
 **Progress:** Finish Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage of Responsive Web Design.
+
+**Day 11 August 14, 2019**
+
+**Language:** HTML / CSS
+**Progress:** Started the Javascript Algorithms And Data Structures Certification. Just started the introduction and basic javascript
