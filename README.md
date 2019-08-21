@@ -71,3 +71,9 @@
 
 **Language:** HTML / CSS
 **Progress:** Started the Javascript Algorithms And Data Structures Certification. Just started the introduction and basic javascript
+
+**Day 12 - 13 August 21, 2019**
+
+**Language:** JS
+**Progress:** Finish Basic Javascript of Javascript Algorithms And Data Structures.
+**New Learnings:** `unshift` is like `push` function but will insert in the first content of the array. `shift` remove the first content of the array.
