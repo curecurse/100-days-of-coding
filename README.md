@@ -77,3 +77,8 @@
 **Language:** JS
 **Progress:** Finish Basic Javascript of Javascript Algorithms And Data Structures.
 **New Learnings:** `unshift` is like `push` function but will insert in the first content of the array. `shift` remove the first content of the array.
+
+**Day 14 - 15 August 28, 2019**
+
+**Language:** JS
+**Progress:** Finish exercises, and test in javascripts.
